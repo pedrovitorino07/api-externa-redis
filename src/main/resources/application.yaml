@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: consulta-api
+
+  data:
+    redis:
+      host: localhost
+      port: 6379
+
+viacep:
+  url: https://viacep.com.br/ws
